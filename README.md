@@ -18,8 +18,7 @@
 - 🔬 Interested in chemistry, chemical engineering, and computational tools for automating complex tasks  
 - 🧠 Learning programming for scientific and industrial applications  
 - 🚀 Always improving my workflow and coding skills  
-- 🔭 Currently working on the development of a computational tool to determine the geometric properties of molecules and their consequences on chemical, physical, and spectroscopic aspects  
-
+- 🔭 Currently working on the development of a computational tool to determine the geometric properties of molecules, and their physical, chemical, and spectroscopic aspects
 ---
 
 ## 📫 Contact
