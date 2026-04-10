@@ -15,17 +15,10 @@
 
 ## 📌 About me
 
-- 🔬 Interested in chemistry, chemical ingineering and computational tools for automating complex tasks 
+- 🔬 Interested in chemistry, chemical engineering, and computational tools for automating complex tasks  
 - 🧠 Learning programming for scientific and industrial applications  
 - 🚀 Always improving my workflow and coding skills  
-
----
-
-## 📊 GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AVayron&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVayron&layout=compact&hide_border=true)
+- 🔭 Currently working on the development of a computational tool to determine the geometric properties of molecules and their consequences on chemical, physical, and spectroscopic aspects  
 
 ---
 
@@ -45,4 +38,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📊 GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AVayron&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVayron&layout=compact&hide_border=true)
+
+---
+
 -->
