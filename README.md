@@ -1,21 +1,22 @@
-## Hi there 👋
+## 👋 Hi there 
 
-🎓 Student in chemistry at EPFL
+🎓 Student in chemistry and chemical engineering at EPFL
 
 ---
 
-## 💻 Programming languages I am learning
+## 💻 Technical skills I am learning
 
 ![Python](https://img.shields.io/badge/Python-learning-blue?logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-learning-008080?logo=latex&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-learning-black?logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-learning-black?logo=markdown&logoColor=white)
 
 ---
 
 ## 📌 About me
 
-- 🔬 Interested in chemistry and computational science  
-- 🧠 Learning programming for scientific applications  
+- 🔬 Interested in chemistry, chemical ingineering and computational tools for automating complex tasks 
+- 🧠 Learning programming for scientific and industrial applications  
 - 🚀 Always improving my workflow and coding skills  
 
 ---
@@ -24,11 +25,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AVayron&show_icons=true&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVayron&layout=compact&hide_border=true)
+
 ---
 
 ## 📫 Contact
 
-- GitHub: AVayron
+- GitHub: [AVayron](https://github.com/AVayron)
 <!--
 **AVayron/AVayron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
