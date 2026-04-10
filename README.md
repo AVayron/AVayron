@@ -6,10 +6,10 @@
 
 ## 💻 Technical skills I am learning
 
-![Python](https://img.shields.io/badge/Python-learning-black?logo=python&logoColor=white&style=flat-square)
-![LaTeX](https://img.shields.io/badge/LaTeX-learning-black?logo=latex&logoColor=white&style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-learning-black?logo=gnubash&logoColor=white&style=flat-square)
-![Markdown](https://img.shields.io/badge/Markdown-learning-black?logo=markdown&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white&style=flat-square)
+![LaTeX](https://img.shields.io/badge/LaTeX-black?logo=latex&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white&style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white&style=flat-square)
 
 ---
 
