@@ -25,9 +25,7 @@
 ## 📫 Contact
 
 - 🐙 GitHub: [AVayron](https://github.com/AVayron)
-- ✉️ Email (personal): [alexis.delamoureyre@gmail.com](mailto:alexis.delamoureyre@gmail.com)
 - ✉️ Email (EPFL): [alexis.vayrondelamoureyre@epfl.ch](mailto:alexis.vayrondelamoureyre@epfl.ch)
-- ☎️ Phone: [+33 XXX XX XX XX](tel:+33767345091)
 <!--
 **AVayron/AVayron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
