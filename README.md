@@ -1,4 +1,4 @@
-## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="20" height="20" />
+## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="30" height="30" />
 
 🎓 Student in chemistry and chemical engineering at EPFL
 
