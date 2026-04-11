@@ -6,12 +6,10 @@
 
 ## 💻 Technical skills I am learning
 
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://docs.python.org/3/)
-[![Markdown](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg)](https://www.markdownguide.org/)
-[![LaTeX](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg)](https://www.latex-project.org/help/documentation/)
-[![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)](https://www.gnu.org/software/bash/manual/)
-
----
+<a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
+<a href="https://www.markdownguide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/></a>
+<a href="https://www.latex-project.org/help/documentation/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/manual/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></a>
 
 ## 📌 About me
 
