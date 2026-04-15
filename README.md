@@ -21,7 +21,6 @@
 
 ## 📫 Contact
 
-- 🐙 GitHub: [AVayron](https://github.com/AVayron)
 - ✉️ Email (EPFL): [alexis.vayrondelamoureyre@epfl.ch](mailto:alexis.vayrondelamoureyre@epfl.ch)
 <!--
 **AVayron/AVayron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- 🐙 GitHub: [AVayron](https://github.com/AVayron)
 ## 📊 GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AVayron&show_icons=true&hide_border=true)
